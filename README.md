@@ -1,4 +1,4 @@
-# Kompilator Lab 4 - JFTT 2019 / 2020
+# Kompilator pseudojęzyka
 
 ## Środowisko
 Do napisania kompilatora zostały użyte następujące narzędzia:
@@ -33,7 +33,7 @@ Po poprawnej kompilacji wynik zostaje zapisany do pliku 'fileOut',
 w razie wystąpienia błędów kompilacja jest przerywana i jest wyświetlany odpowiedni komunikat. 
 
 ## Interpreter
-Skompilowane programy można uruchamiać na maszynie testowej oddanej do użytku studentów.
+Skompilowane programy można uruchamiać na zewnętrznej maszynie testowej.
 Programy wymagające obsługi bardzo dużych liczb (większych niż long long) powinno się uruchamiać na maszynie w wersji CLN (biblioteka obsługi dużych liczb).
 
 ## Specyfikacja języka
