@@ -1,0 +1,26 @@
+[ div-mod.imp 
+  1 0
+  1 0 0 0
+]
+DECLARE
+	a, b, c
+BEGIN
+	READ a;
+	READ b;
+	c ASSIGN a DIV a;
+	WRITE c;
+	c ASSIGN a DIV b;
+	WRITE c;
+	c ASSIGN a MOD a;
+	WRITE c;
+	c ASSIGN a MOD b;
+	WRITE c;
+
+	[c ASSIGN 21474836470005 DIV 2147483647;
+	WRITE c;
+
+	c ASSIGN 21474836470005 MOD 2147483647;
+	WRITE c;]
+	
+END
+

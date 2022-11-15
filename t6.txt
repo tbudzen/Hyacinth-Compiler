@@ -1,0 +1,6 @@
+DECLARE 
+	a;
+BEGIN
+	a ASSIGN 1370 DIV 2;
+	WRITE a;
+END

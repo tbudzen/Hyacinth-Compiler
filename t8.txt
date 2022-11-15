@@ -1,0 +1,17 @@
+DECLARE
+	a(0:3), n, r
+BEGIN
+    a(0) ASSIGN 4294967297;
+    a(1) ASSIGN 4294967298;
+    a(2) ASSIGN 4294967299;
+    a(3) ASSIGN 4294967300;
+
+    n ASSIGN a(0) TIMES a(1);
+    n ASSIGN n TIMES a(2);
+    n ASSIGN n TIMES a(3);
+
+	WRITE n;
+
+	r ASSIGN n MOD 10;
+	WRITE r;
+END

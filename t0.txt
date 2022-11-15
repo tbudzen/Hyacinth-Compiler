@@ -1,0 +1,27 @@
+DECLARE
+    a, i, c(5:10); [ zmienne ]
+BEGIN
+	READ a;
+
+	c(10) ASSIGN 55;
+	WRITE c(10);
+
+	c(10) ASSIGN a;
+	WRITE c(10);
+
+	i ASSIGN 11;
+	c(i) ASSIGN 65;
+	WRITE c(i);
+
+	c(i) ASSIGN c(10); 
+	WRITE c(i);
+
+	c(9) ASSIGN c(i) PLUS 5;
+	WRITE c(9);
+
+	c(9) ASSIGN 5 PLUS c(i);
+	WRITE c(9);
+
+	c(9) ASSIGN c(i) PLUS c(i);
+	WRITE c(9);
+END

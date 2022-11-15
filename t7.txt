@@ -1,0 +1,16 @@
+DECLARE
+    i, j, a, b, w, tab(-20:10)
+BEGIN
+	tab(1) ASSIGN 3;
+	tab(2) ASSIGN 3;
+
+	IF tab(1) NEQ tab(2) THEN
+		FOR i FROM 1 TO 3 DO
+			WRITE 111;
+		ENDFOR
+	ELSE
+		FOR i FROM 1 TO 3 DO
+			WRITE 222;
+		ENDFOR
+	ENDIF
+END

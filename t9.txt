@@ -1,0 +1,6 @@
+DECLARE
+	a
+BEGIN
+	a ASSIGN -17 MOD 3;
+	WRITE a;
+END

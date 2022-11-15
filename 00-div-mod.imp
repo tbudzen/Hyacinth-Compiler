@@ -1,0 +1,31 @@
+[ div-mod.imp 
+  33 7
+4 5 -5 -2 
+4 -5 -5 2
+]
+DECLARE
+	a, b, c
+BEGIN
+	READ a;
+	READ b;
+	c ASSIGN a DIV b; [c = 33 div 7 = 4]
+	WRITE c;
+	c ASSIGN a MOD b; [c = 33 mod 7 = 5]
+	WRITE c;
+	b ASSIGN 0 MINUS b; [b = -7]
+	c ASSIGN a DIV b; [c = 33 div -7 = -5 ???????? to check: "negative number division algorithm"]
+	WRITE c;
+	c ASSIGN a MOD b; [c = 33 mod -7 = -2]
+	WRITE c;
+	a ASSIGN 0 MINUS a; [a = -33]
+	c ASSIGN a DIV b; [c = -33 div -7 = 4]
+	WRITE c;
+	c ASSIGN a MOD b; [c = -33 mod -7 = -5]
+	WRITE c;
+	b ASSIGN 0 MINUS b; [b = 7]
+	c ASSIGN a DIV b; [c = -33 div 7 = -5 ???????]
+	WRITE c;
+	c ASSIGN a MOD b; [c = -33 mod 7 = 2]
+	WRITE c;
+END
+

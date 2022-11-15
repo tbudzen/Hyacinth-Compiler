@@ -1,0 +1,843 @@
+SUB 0 # Kompilacja stałej 1 do adresu 1025
+INC
+STORE 1025 # Koniec kompilacji stałej 1 do adresu 1025
+SUB 0 # Kompilacja stałej -1 do adresu 1026
+DEC
+STORE 1026 # Koniec kompilacji stałej -1 do adresu 1026
+SUB 0 # Kompilacja stałej 1 do adresu 1027
+INC
+STORE 1027 # Koniec kompilacji stałej 1 do adresu 1027
+SUB 0 # Kompilacja stałej -1 do adresu 1028
+DEC
+STORE 1028 # Koniec kompilacji stałej -1 do adresu 1028
+GET
+STORE 1029
+GET
+STORE 1030
+GET
+STORE 1031
+SUB 0 # Kompilacja stałej 111091 do adresu 1032
+SUB 0 # Kompilacja stałej 111091 do adresu 1032
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 1
+SUB 0
+INC
+SHIFT 1
+STORE 1
+SUB 0 # Kompilacja stałej 111091 do adresu 1032
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 2
+SUB 0
+INC
+SHIFT 2
+STORE 2
+SUB 0 # Kompilacja stałej 111091 do adresu 1032
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 3
+SUB 0
+INC
+SHIFT 3
+STORE 3
+SUB 0 # Kompilacja stałej 111091 do adresu 1032
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 4
+SUB 0
+INC
+SHIFT 4
+STORE 4
+SUB 0 # Kompilacja stałej 111091 do adresu 1032
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 5
+SUB 0
+INC
+SHIFT 5
+STORE 5
+SUB 0 # Kompilacja stałej 111091 do adresu 1032
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 6
+SUB 0
+INC
+SHIFT 6
+STORE 6
+SUB 0 # Kompilacja stałej 111091 do adresu 1032
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 7
+SUB 0
+INC
+SHIFT 7
+STORE 7
+SUB 0 # Kompilacja stałej 111091 do adresu 1032
+INC
+INC
+INC
+INC
+INC
+STORE 8
+SUB 0
+INC
+SHIFT 8
+STORE 8
+SUB 0 # Kompilacja stałej 111091 do adresu 1032
+INC
+INC
+INC
+INC
+STORE 9
+SUB 0
+INC
+SHIFT 9
+STORE 9
+SUB 0
+ADD 1
+ADD 2
+ADD 3
+ADD 4
+ADD 5
+ADD 6
+ADD 7
+ADD 8
+ADD 9
+INC
+INC
+INC
+STORE 1032 # Koniec kompilacji stałej 111091 do adresu 1032
+SUB 0 # Kompilacja stałej 111110 do adresu 1033
+SUB 0 # Kompilacja stałej 111110 do adresu 1033
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 1
+SUB 0
+INC
+SHIFT 1
+STORE 1
+SUB 0 # Kompilacja stałej 111110 do adresu 1033
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 2
+SUB 0
+INC
+SHIFT 2
+STORE 2
+SUB 0 # Kompilacja stałej 111110 do adresu 1033
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 3
+SUB 0
+INC
+SHIFT 3
+STORE 3
+SUB 0 # Kompilacja stałej 111110 do adresu 1033
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 4
+SUB 0
+INC
+SHIFT 4
+STORE 4
+SUB 0 # Kompilacja stałej 111110 do adresu 1033
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 5
+SUB 0
+INC
+SHIFT 5
+STORE 5
+SUB 0 # Kompilacja stałej 111110 do adresu 1033
+INC
+INC
+STORE 6
+SUB 0
+INC
+SHIFT 6
+STORE 6
+SUB 0
+ADD 1
+ADD 2
+ADD 3
+ADD 4
+ADD 5
+ADD 6
+INC
+INC
+STORE 1033 # Koniec kompilacji stałej 111110 do adresu 1033
+SUB 0 # Kompilacja stałej 111091 do adresu 1034
+SUB 0 # Kompilacja stałej 111091 do adresu 1034
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 2
+SUB 0
+INC
+SHIFT 2
+STORE 2
+SUB 0 # Kompilacja stałej 111091 do adresu 1034
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 3
+SUB 0
+INC
+SHIFT 3
+STORE 3
+SUB 0 # Kompilacja stałej 111091 do adresu 1034
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 4
+SUB 0
+INC
+SHIFT 4
+STORE 4
+SUB 0 # Kompilacja stałej 111091 do adresu 1034
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 5
+SUB 0
+INC
+SHIFT 5
+STORE 5
+SUB 0 # Kompilacja stałej 111091 do adresu 1034
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 6
+SUB 0
+INC
+SHIFT 6
+STORE 6
+SUB 0 # Kompilacja stałej 111091 do adresu 1034
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 7
+SUB 0
+INC
+SHIFT 7
+STORE 7
+SUB 0 # Kompilacja stałej 111091 do adresu 1034
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 8
+SUB 0
+INC
+SHIFT 8
+STORE 8
+SUB 0 # Kompilacja stałej 111091 do adresu 1034
+INC
+INC
+INC
+INC
+INC
+STORE 9
+SUB 0
+INC
+SHIFT 9
+STORE 9
+SUB 0 # Kompilacja stałej 111091 do adresu 1034
+INC
+INC
+INC
+INC
+STORE 10
+SUB 0
+INC
+SHIFT 10
+STORE 10
+SUB 0
+ADD 2
+ADD 3
+ADD 4
+ADD 5
+ADD 6
+ADD 7
+ADD 8
+ADD 9
+ADD 10
+INC
+INC
+INC
+STORE 1034 # Koniec kompilacji stałej 111091 do adresu 1034
+LOAD 1034 # Kompilacja FOR FROM TO
+STORE 1035
+SUB 0 # Kompilacja stałej 111110 do adresu 1036
+SUB 0 # Kompilacja stałej 111110 do adresu 1036
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 2
+SUB 0
+INC
+SHIFT 2
+STORE 2
+SUB 0 # Kompilacja stałej 111110 do adresu 1036
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 3
+SUB 0
+INC
+SHIFT 3
+STORE 3
+SUB 0 # Kompilacja stałej 111110 do adresu 1036
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 4
+SUB 0
+INC
+SHIFT 4
+STORE 4
+SUB 0 # Kompilacja stałej 111110 do adresu 1036
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 5
+SUB 0
+INC
+SHIFT 5
+STORE 5
+SUB 0 # Kompilacja stałej 111110 do adresu 1036
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 6
+SUB 0
+INC
+SHIFT 6
+STORE 6
+SUB 0 # Kompilacja stałej 111110 do adresu 1036
+INC
+INC
+STORE 7
+SUB 0
+INC
+SHIFT 7
+STORE 7
+SUB 0
+ADD 2
+ADD 3
+ADD 4
+ADD 5
+ADD 6
+ADD 7
+INC
+INC
+STORE 1036 # Koniec kompilacji stałej 111110 do adresu 1036
+LOAD 1036
+STORE 1
+LOAD 1035
+SUB 1
+JPOS 836
+SUB 0 # Kompilacja stałej 209 do adresu 1037
+SUB 0 # Kompilacja stałej 209 do adresu 1037
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 2
+SUB 0
+INC
+SHIFT 2
+STORE 2
+SUB 0 # Kompilacja stałej 209 do adresu 1037
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 3
+SUB 0
+INC
+SHIFT 3
+STORE 3
+SUB 0 # Kompilacja stałej 209 do adresu 1037
+INC
+INC
+INC
+INC
+STORE 4
+SUB 0
+INC
+SHIFT 4
+STORE 4
+SUB 0
+ADD 2
+ADD 3
+ADD 4
+INC
+STORE 1037 # Koniec kompilacji stałej 209 do adresu 1037
+SUB 0 # Kompilacja stałej 200 do adresu 1038
+SUB 0 # Kompilacja stałej 200 do adresu 1038
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 2
+SUB 0
+INC
+SHIFT 2
+STORE 2
+SUB 0 # Kompilacja stałej 200 do adresu 1038
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 3
+SUB 0
+INC
+SHIFT 3
+STORE 3
+SUB 0 # Kompilacja stałej 200 do adresu 1038
+INC
+INC
+INC
+STORE 4
+SUB 0
+INC
+SHIFT 4
+STORE 4
+SUB 0
+ADD 2
+ADD 3
+ADD 4
+STORE 1038 # Koniec kompilacji stałej 200 do adresu 1038
+SUB 0 # Kompilacja stałej 209 do adresu 1039
+SUB 0 # Kompilacja stałej 209 do adresu 1039
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 3
+SUB 0
+INC
+SHIFT 3
+STORE 3
+SUB 0 # Kompilacja stałej 209 do adresu 1039
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 4
+SUB 0
+INC
+SHIFT 4
+STORE 4
+SUB 0 # Kompilacja stałej 209 do adresu 1039
+INC
+INC
+INC
+INC
+STORE 5
+SUB 0
+INC
+SHIFT 5
+STORE 5
+SUB 0
+ADD 3
+ADD 4
+ADD 5
+INC
+STORE 1039 # Koniec kompilacji stałej 209 do adresu 1039
+LOAD 1039 # Kompilacja FOR FROM DOWNTO
+STORE 1040 # <--
+SUB 0 # Kompilacja stałej 200 do adresu 1041
+SUB 0 # Kompilacja stałej 200 do adresu 1041
+INC
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 3
+SUB 0
+INC
+SHIFT 3
+STORE 3
+SUB 0 # Kompilacja stałej 200 do adresu 1041
+INC
+INC
+INC
+INC
+INC
+INC
+STORE 4
+SUB 0
+INC
+SHIFT 4
+STORE 4
+SUB 0 # Kompilacja stałej 200 do adresu 1041
+INC
+INC
+INC
+STORE 5
+SUB 0
+INC
+SHIFT 5
+STORE 5
+SUB 0
+ADD 3
+ADD 4
+ADD 5
+STORE 1041 # Koniec kompilacji stałej 200 do adresu 1041
+LOAD 1041
+STORE 2
+LOAD 1040
+SUB 2
+JNEG 827
+SUB 0 # Kompilacja stałej 11 do adresu 1042
+SUB 0 # Kompilacja stałej 11 do adresu 1042
+INC
+INC
+INC
+STORE 3
+SUB 0
+INC
+SHIFT 3
+STORE 3
+SUB 0
+ADD 3
+INC
+INC
+INC
+STORE 1042 # Koniec kompilacji stałej 11 do adresu 1042
+SUB 0 # Kompilacja stałej 20 do adresu 1043
+SUB 0 # Kompilacja stałej 20 do adresu 1043
+INC
+INC
+INC
+INC
+STORE 3
+SUB 0
+INC
+SHIFT 3
+STORE 3
+SUB 0
+ADD 3
+INC
+INC
+INC
+INC
+STORE 1043 # Koniec kompilacji stałej 20 do adresu 1043
+SUB 0 # Kompilacja stałej 11 do adresu 1044
+SUB 0 # Kompilacja stałej 11 do adresu 1044
+INC
+INC
+INC
+STORE 4
+SUB 0
+INC
+SHIFT 4
+STORE 4
+SUB 0
+ADD 4
+INC
+INC
+INC
+STORE 1044 # Koniec kompilacji stałej 11 do adresu 1044
+LOAD 1044 # Kompilacja FOR FROM TO
+STORE 1045
+SUB 0 # Kompilacja stałej 20 do adresu 1046
+SUB 0 # Kompilacja stałej 20 do adresu 1046
+INC
+INC
+INC
+INC
+STORE 4
+SUB 0
+INC
+SHIFT 4
+STORE 4
+SUB 0
+ADD 4
+INC
+INC
+INC
+INC
+STORE 1046 # Koniec kompilacji stałej 20 do adresu 1046
+LOAD 1046
+STORE 3
+LOAD 1045
+SUB 3
+JPOS 818
+LOAD 1029 # Compilation of first normal value of PLUS
+STORE 4
+LOAD 1045 # Compilation of second normal value of PLUS
+ADD 4
+STORE 1029
+LOAD 1045
+INC
+STORE 1045
+JUMP 806
+LOAD 1030 # Compilation of first normal value of PLUS
+STORE 3
+LOAD 1040 # Compilation of second normal value of PLUS
+ADD 3
+STORE 1030
+LOAD 1040
+DEC
+STORE 1040
+JUMP 731
+LOAD 1031 # Compilation of first normal value of PLUS
+STORE 2
+LOAD 1035 # Compilation of second normal value of PLUS
+ADD 2
+STORE 1031
+LOAD 1035
+INC
+STORE 1035
+JUMP 560
+LOAD 1029
+PUT
+LOAD 1030
+PUT
+LOAD 1031
+PUT
+HALT

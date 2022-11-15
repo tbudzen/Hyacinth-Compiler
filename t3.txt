@@ -1,0 +1,19 @@
+DECLARE
+	a, b;
+BEGIN
+	a ASSIGN 2;
+
+	WHILE a LE 7 DO
+		WRITE a;
+		a ASSIGN a PLUS 1;
+	ENDWHILE
+
+	DO
+		WRITE a;
+		FOR b FROM 1 TO 5 DO
+			WRITE 33;
+		ENDFOR
+		a ASSIGN a MINUS 1;
+	WHILE a GE 1 
+	ENDDO
+END
